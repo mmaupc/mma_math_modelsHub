@@ -6,8 +6,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Elysia-Citrus/Triangular_Calculation)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Elysia-Citrus/Triangular_Calculation)
-![GitHub stars](https://img.shields.io/github/stars/Elysia-Citrus/Triangular_Calculation?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Elysia-Citrus/Triangular_Calculation?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mmaupc/mma_math_modelsHub?tab=readme-ov-file?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mmaupc/mma_math_modelsHub?tab=readme-ov-file?style=social)
 
 </div>
 
@@ -16,7 +16,7 @@
 > 这里的大部分内容都来自我们翻 wiki、看视频、啃文献、写代码的日常积累，目前还在不断补全中。
 
 
-> [!NOTE]引用与说明
+> [!NOTE]
 > 本仓库由学生团队出于学习交流与经验整理目的，在课余时间用爱发电维护，不用于商业用途。部分内容参考了公开文献、课程资料、视频教程与其他开放资源；部分模块仍在完善中。若存在引用遗漏或表述不准确之处，欢迎通过 Issue 指出，我们会及时补充和修正。
 >
 > 如果这个仓库刚好帮到了你，欢迎点个 Star⭐喵；如果你也在学数学建模，欢迎一起交流和共建。
